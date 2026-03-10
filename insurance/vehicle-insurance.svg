@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Car side view with shield overlaid -->
+  <rect x="6" y="24" width="36" height="14" rx="3"/>
+  <path d="M10 24 L14 14 H34 L38 24"/>
+  <circle cx="14" cy="38" r="4"/>
+  <circle cx="34" cy="38" r="4"/>
+  <rect x="16" y="17" width="12" height="8" rx="2"/>
+  <!-- Shield badge on door -->
+  <path d="M26 26 L30 27 V30 C30 32 28 33 28 33 C28 33 26 32 26 30 V27 Z"/>
+</svg>

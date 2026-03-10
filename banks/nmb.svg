@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- N letterform — strong serif-style -->
+  <path d="M12 10 V38 L36 10 V38"/>
+  <!-- Diamond/rhombus accent (NMB brand motif) -->
+  <path d="M20 24 L24 19 L28 24 L24 29 Z"/>
+</svg>

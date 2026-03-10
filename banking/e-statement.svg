@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Document with wifi/cloud signal (digital statement) -->
+  <rect x="12" y="8" width="24" height="30" rx="3"/>
+  <path d="M17 16 H31 M17 22 H31 M17 28 H23"/>
+  <!-- Wifi signal replacing the usual checkmark -->
+  <path d="M20 36 C20 33 28 33 28 36" stroke-width="1.5"/>
+  <path d="M22 36 C22 34 26 34 26 36" stroke-width="1.5"/>
+  <circle cx="24" cy="36" r="1" fill="currentColor"/>
+</svg>

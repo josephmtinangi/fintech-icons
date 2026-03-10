@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Classic bank columns -->
+  <path d="M24 8 L38 14 H10 L24 8 Z"/>
+  <path d="M14 14 V38 M24 14 V38 M34 14 V38"/>
+  <path d="M10 38 H38"/>
+  <path d="M10 42 H38"/>
+</svg>

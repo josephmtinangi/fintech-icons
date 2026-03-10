@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Receipt/document with checkmark -->
+  <path d="M12 6 H32 L38 12 V44 L36 42 L34 44 L32 42 L30 44 L28 42 L26 44 L24 42 L22 44 L20 42 L18 44 L16 42 L14 44 L12 42 Z"/>
+  <path d="M32 6 V12 H38"/>
+  <path d="M17 20 H31 M17 26 H31 M17 32 H24"/>
+  <path d="M26 30 L28 33 L32 27"/>
+</svg>

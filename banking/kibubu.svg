@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Piggy bank — Kibubu = savings/pocket -->
+  <path d="M14 28 C14 20 18 14 28 14 C36 14 40 20 40 26 C40 32 36 36 30 37 V42 H22 V37 C18 36 14 33 14 28 Z"/>
+  <!-- Coin slot -->
+  <path d="M26 14 C26 12 28 10 30 10 C32 10 34 12 34 14"/>
+  <!-- Eye -->
+  <circle cx="34" cy="24" r="1.5" fill="currentColor"/>
+  <!-- Coin -->
+  <path d="M6 24 C6 22 8 20 10 22 C12 24 10 28 8 28 C7 28 6 26 6 24"/>
+</svg>

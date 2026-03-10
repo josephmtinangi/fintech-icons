@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Generic bank building with CRDB-style three-bar detail -->
+  <path d="M24 6 L40 14 V16 H8 V14 Z"/>
+  <rect x="10" y="16" width="6" height="18"/>
+  <rect x="21" y="16" width="6" height="18"/>
+  <rect x="32" y="16" width="6" height="18"/>
+  <path d="M6 34 H42 M6 38 H42"/>
+</svg>

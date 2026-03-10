@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- ID card with face silhouette — KYC verification -->
+  <rect x="6" y="12" width="36" height="26" rx="3"/>
+  <!-- Face area -->
+  <circle cx="18" cy="24" r="5"/>
+  <path d="M10 36 C10 30 26 30 26 36"/>
+  <!-- Data lines -->
+  <path d="M28 20 H38 M28 25 H36 M28 30 H34"/>
+</svg>

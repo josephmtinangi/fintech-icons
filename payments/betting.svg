@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Dice — betting/gaming -->
+  <rect x="8" y="8" width="22" height="22" rx="3"/>
+  <circle cx="14" cy="14" r="2" fill="currentColor"/>
+  <circle cx="24" cy="14" r="2" fill="currentColor"/>
+  <circle cx="14" cy="24" r="2" fill="currentColor"/>
+  <circle cx="24" cy="24" r="2" fill="currentColor"/>
+  <circle cx="19" cy="19" r="2" fill="currentColor"/>
+  <!-- Second dice partly behind -->
+  <path d="M22 28 H38 C40 28 40 30 40 30 V44 C40 44 40 44 38 44 H22"/>
+  <circle cx="28" cy="34" r="2" fill="currentColor"/>
+  <circle cx="34" cy="40" r="2" fill="currentColor"/>
+</svg>

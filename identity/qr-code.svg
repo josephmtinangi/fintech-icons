@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- QR code — three position markers + data -->
+  <rect x="6" y="6" width="14" height="14" rx="2"/>
+  <rect x="9" y="9" width="8" height="8" rx="1"/>
+  <rect x="28" y="6" width="14" height="14" rx="2"/>
+  <rect x="31" y="9" width="8" height="8" rx="1"/>
+  <rect x="6" y="28" width="14" height="14" rx="2"/>
+  <rect x="9" y="31" width="8" height="8" rx="1"/>
+  <!-- Data dots bottom right -->
+  <rect x="28" y="28" width="4" height="4" rx="1"/>
+  <rect x="36" y="28" width="4" height="4" rx="1"/>
+  <rect x="28" y="36" width="4" height="4" rx="1"/>
+  <rect x="36" y="36" width="4" height="4" rx="1"/>
+  <rect x="32" y="32" width="4" height="4" rx="1"/>
+</svg>

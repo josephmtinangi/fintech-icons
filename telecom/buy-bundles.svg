@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Data packages — stacked layers with wifi arc -->
+  <ellipse cx="24" cy="34" rx="16" ry="5"/>
+  <path d="M8 34 V28 C8 25 16 22 24 22 C32 22 40 25 40 28 V34"/>
+  <path d="M8 28 C8 25 16 22 24 22 C32 22 40 25 40 28"/>
+  <path d="M12 22 V18 C12 15 18 12 24 12 C30 12 36 15 36 18 V22"/>
+  <!-- Wifi arc top -->
+  <path d="M18 10 C18 6 30 6 30 10"/>
+</svg>

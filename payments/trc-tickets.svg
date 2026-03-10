@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Train ticket — TRC = Tanzania Railways Corporation -->
+  <rect x="6" y="16" width="36" height="18" rx="3"/>
+  <circle cx="6" cy="25" r="4"/>
+  <circle cx="42" cy="25" r="4"/>
+  <!-- Train icon inside ticket -->
+  <rect x="16" y="20" width="16" height="10" rx="2"/>
+  <circle cx="19" cy="30" r="2"/>
+  <circle cx="29" cy="30" r="2"/>
+  <path d="M16 25 H32 M21 20 V25"/>
+</svg>

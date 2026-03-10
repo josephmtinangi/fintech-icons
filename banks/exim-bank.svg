@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Globe with export/import arrows -->
+  <circle cx="24" cy="24" r="16"/>
+  <path d="M8 24 H40"/>
+  <path d="M24 8 C20 14 20 34 24 40 C28 34 28 14 24 8"/>
+  <!-- Export arrow right -->
+  <path d="M32 18 L38 18 L35 15 M38 18 L35 21"/>
+</svg>

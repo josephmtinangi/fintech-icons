@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Wallet with + -->
+  <path d="M8 14 H36 C38 14 40 16 40 18 V34 C40 36 38 38 36 38 H12 C10 38 8 36 8 34 V18 C8 16 10 14 12 14"/>
+  <path d="M8 22 H40"/>
+  <rect x="30" y="25" width="8" height="8" rx="1.5"/>
+  <path d="M34 27 V31 M32 29 H36"/>
+</svg>

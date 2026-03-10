@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Trophy cup — rewards -->
+  <path d="M16 8 H32 V22 C32 28 28 32 24 32 C20 32 16 28 16 22 V8"/>
+  <path d="M12 8 C10 8 8 10 8 14 C8 18 11 20 14 20"/>
+  <path d="M36 8 C38 8 40 10 40 14 C40 18 37 20 34 20"/>
+  <path d="M20 32 V38 M28 32 V38"/>
+  <path d="M14 38 H34"/>
+</svg>

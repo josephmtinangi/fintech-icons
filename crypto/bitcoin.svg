@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Bitcoin B symbol with coin circle -->
+  <circle cx="24" cy="24" r="16"/>
+  <path d="M17 14 V34 M17 14 H25 C28 14 31 16 31 20 C31 23 29 24 26 24 H17 M17 24 H26 C30 24 33 26 33 30 C33 34 30 34 26 34 H17"/>
+  <path d="M14 12 V10 M22 12 V10 M14 36 V38 M22 36 V38"/>
+</svg>

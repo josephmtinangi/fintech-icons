@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Government building / Tanzania parliament dome -->
+  <path d="M24 6 L38 16 V18 H10 V16 Z"/>
+  <path d="M14 18 V38 M22 18 V38 M30 18 V38 M38 18 V38"/>
+  <path d="M8 38 H40 M8 42 H40"/>
+  <!-- Dome on top -->
+  <path d="M18 6 C18 2 30 2 30 6"/>
+</svg>

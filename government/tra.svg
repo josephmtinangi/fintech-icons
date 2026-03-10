@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- TRA = Tanzania Revenue Authority — scales of justice with document -->
+  <!-- Balance scales -->
+  <path d="M24 10 V36"/>
+  <path d="M14 16 H34"/>
+  <!-- Left pan -->
+  <path d="M14 16 L10 26 H18 Z"/>
+  <!-- Right pan -->
+  <path d="M34 16 L30 26 H38 Z"/>
+  <!-- Base/plinth -->
+  <path d="M18 36 H30 M20 40 H28"/>
+</svg>

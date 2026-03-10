@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Bell with dot — notification -->
+  <path d="M24 6 C18 6 14 10 14 16 V28 L10 32 V34 H38 V32 L34 28 V16 C34 10 30 6 24 6 Z"/>
+  <circle cx="24" cy="6" r="3"/>
+  <path d="M21 34 C21 36 22 38 24 38 C26 38 27 36 27 34"/>
+  <!-- Alert badge -->
+  <circle cx="34" cy="12" r="6" fill="currentColor" stroke="none"/>
+  <path d="M34 9 V13 M34 15 V16" stroke-width="1.5" stroke="white" fill="none"/>
+</svg>

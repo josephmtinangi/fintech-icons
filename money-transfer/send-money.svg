@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Phone with arrow launching out -->
+  <rect x="14" y="8" width="14" height="26" rx="3"/>
+  <path d="M17 12 H25 M17 16 H22"/>
+  <path d="M31 22 L42 22 M37 17 L42 22 L37 27"/>
+</svg>

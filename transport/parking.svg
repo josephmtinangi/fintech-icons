@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Parking garage with bold P -->
+  <rect x="8" y="8" width="32" height="32" rx="3"/>
+  <!-- Bold P inside -->
+  <path d="M16 14 V34"/>
+  <path d="M16 14 H24 C28 14 32 17 32 21 C32 25 28 28 24 28 H16"/>
+</svg>

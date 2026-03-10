@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Piggy bank simple (different from kibubu) — coin dropping in slot -->
+  <circle cx="24" cy="28" r="14"/>
+  <path d="M20 14 H28 M24 14 V18"/>
+  <!-- Coin slot at top -->
+  <path d="M22 18 H26"/>
+  <!-- Snout -->
+  <path d="M36 26 C40 26 42 28 42 30 C42 32 40 32 38 30"/>
+  <!-- Eye -->
+  <circle cx="32" cy="24" r="1.5" fill="currentColor"/>
+  <!-- Leg -->
+  <path d="M16 38 L14 44 M20 40 L18 44 M28 40 L30 44 M32 38 L34 44"/>
+</svg>

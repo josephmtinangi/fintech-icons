@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Three signature horizontal bars — CRDB motif -->
+  <path d="M10 14 H38"/>
+  <path d="M10 22 H38"/>
+  <path d="M10 30 H38"/>
+  <!-- Shield base suggesting bank solidity -->
+  <path d="M14 8 H34 L38 14 M10 14 L14 8"/>
+  <path d="M10 30 L14 40 H34 L38 30"/>
+</svg>

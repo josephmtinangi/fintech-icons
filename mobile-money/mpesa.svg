@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Speech bubble shape -->
+  <path d="M8 10 C8 8 10 6 12 6 H36 C38 6 40 8 40 10 V30 C40 32 38 34 36 34 H28 L24 42 L20 34 H12 C10 34 8 32 8 30 Z"/>
+  <!-- Bold M letterform inside -->
+  <path d="M15 27 L15 15 L24 25 L33 15 L33 27"/>
+</svg>

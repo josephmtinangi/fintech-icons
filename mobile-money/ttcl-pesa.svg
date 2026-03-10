@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Tower mast -->
+  <path d="M24 10 V40"/>
+  <!-- Broadcast arms at different heights -->
+  <path d="M16 16 H32"/>
+  <path d="M19 22 H29"/>
+  <path d="M21 28 H27"/>
+  <!-- Base platform -->
+  <path d="M18 40 H30"/>
+</svg>
